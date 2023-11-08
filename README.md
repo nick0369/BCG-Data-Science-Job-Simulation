@@ -5,7 +5,7 @@ As a BCG X Data Scientist, you can expect to work in many different industries, 
 
 We hope you will enjoy your virtual experience and get a glimpse into the exciting life of a Data Scientist at BCG X!
 
-Here is your task_1
+#Here is your task_1
 Your first task today is to understand what is going on with the client and to think about how you would approach this problem and test the specific hypothesis.
 
 You must formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your AD, focusing on the data that you would need from the client and the analytical models you would use to test such a hypothesis.
@@ -23,7 +23,7 @@ What kind of exploratory analyses on the relevant fields can give more insights 
 
 Estimated time for task completion: 1 hour depending on your learning style. 
 
-Here is your task_2
+#Here is your task_2
 Sub-Task 1:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset. You should spend around 1 hour on this.
